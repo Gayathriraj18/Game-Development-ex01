@@ -1,40 +1,41 @@
 # Game-Development-ex01
 
-AIM:
+# AIM:
+
 To Implement various effects in a material such as emissive, roughness, and metallic properties in Unreal Engine.
 
-PROCEDURE:
-Step1 :
+# PROCEDURE:
+# Step1 :
 Right-click in the content browser and choose material. Rename the material and double-click to open it
 
-Step2 :
+# Step2 :
 Right-click in the working space and search for constants. In constant choose constant vector
 
-Step3 :
+# Step3 :
 After this double click on the constant vector 4 and edit the colour using the colour picker.
 
-Step4 :
+# Step4 :
 After adjusting the colour click okay and save it.
 
-Step5 :
+# Step5 :
 They join the output of the constant vector 4 to the base colour.
 
-Step6 :
+# Step6 :
 Create a single constant using step 3 and adjust its value of it using detail panel by adjusting the value.
 
-Step7 :
+# Step7 :
 And you can apply this constant value to metallic, roughness, emissive colour etc..
 
-Step8 :
+# Step8 :
 For emissive you need to multiply the constant vector 4 and constant and apply it to emissive colour.
 
-Step9 :
+# Step9 :
 For creating walls and gate you need to create a material and import a png image.
 
-Step10 :
+# Step10 :
 And use the png image as texture sample and connect the (rgb) of texture sample to the emissive colour & connect the alpha value of texture sample to the opacity.
 
-Step11 :
+# Step11 :
 The save it, go to the third person example map and create a plane or cube apply the material which you have created for the wall or gate.
 
 Output :
