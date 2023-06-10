@@ -69,5 +69,5 @@ Output :
 
 
 
-RESULT:
+# RESULT:
 Thus, various effects in material properties is successfully implemented in Unreal Engine.
